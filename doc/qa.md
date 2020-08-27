@@ -25,7 +25,7 @@ Once it's done you can test the following:
     * Type <kbd>Esc</kbd>.
 
   * Click on `Text Editor`.
-    * Make sure you can edit text in the "Text Edit" box. Try entering lots of text so that it doesn't all fit. It should scroll down as you type. Using they arrow keys on your keyboard should move the cursor and let you go back up and see text that was out of view before.
+    * Make sure you can edit text in the "Text Edit" box. Try entering lots of text so that it doesn't all fit. It should scroll down as you type. Using the arrow keys on your keyboard should move the cursor and let you go back up and see text that was out of view before.
     * Make sure that clicking, right-clicking, using the scroll-wheel on your mouse, and dragging in the "Text Edit" box updates the message in the box lying above and behind the "Text Edit" box.
     * Make sure that dragging your mouse cursor around inside the lowest box causes the message to update. This should update only when dragging *inside* that box, not outside of it.
     * Make sure that resizing your terminal window causes the boxes to resize as well.
